@@ -4,7 +4,7 @@
     {
       "title": "Test Hydra",
       "uris": [
-        "TON_URL_RAW_DU_TEST.TXT"
+        "https://raw.githubusercontent.com/toussaintnolhann-cell/hydra-test/refs/heads/main/test.txt"
       ],
       "uploadDate": "2026-09-04T20:00:00.000Z",
       "fileSize": "1 KB"
