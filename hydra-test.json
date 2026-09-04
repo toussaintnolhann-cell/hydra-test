@@ -1,4 +1,13 @@
 {
   "name": "Ma source de test",
-  "downloads": []
+  "downloads": [
+    {
+      "title": "Test Hydra",
+      "uris": [
+        "TON_URL_RAW_DU_TEST.TXT"
+      ],
+      "uploadDate": "2026-09-04T20:00:00.000Z",
+      "fileSize": "1 KB"
+    }
+  ]
 }
